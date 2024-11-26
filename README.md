@@ -17,14 +17,6 @@ This project provides automated tests for the login flow of Engenious University
    npm install
    ```
 
-## Configuration
-- Set environment variables for email, password, and headless mode in a `.env` file or through the command line.
-  ```
-  TEST_EMAIL=your-email@example.com
-  TEST_PASSWORD=your-password
-  HEADLESS=true
-  ```
-
 ## Running Tests
 - To run tests in headless mode:
   ```bash
