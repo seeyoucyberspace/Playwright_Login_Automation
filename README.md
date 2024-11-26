@@ -34,3 +34,8 @@ This project provides automated tests for the login flow of Engenious University
 ## Dependencies
 - [Playwright](https://playwright.dev/): Used for browser automation.
 - [Vitest](https://vitest.dev/): Used for running tests.
+
+## Troubleshooting
+- If you are experiencing an error with launching the Chrome browser on your local machine, please try changing the Chrome browser path to the one that is relevant to you.
+  The path can be changed in the `utils/` folder, in the `BrowserUtils.ts` file, as shown in the screenshot below:
+- ![img.png](img.png)
