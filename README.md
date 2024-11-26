@@ -46,6 +46,3 @@ This project provides automated tests for the login flow of Engenious University
 ## Dependencies
 - [Playwright](https://playwright.dev/): Used for browser automation.
 - [Vitest](https://vitest.dev/): Used for running tests.
-
-## License
-This project is licensed under the MIT License.
