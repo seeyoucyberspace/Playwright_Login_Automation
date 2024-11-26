@@ -18,13 +18,9 @@ This project provides automated tests for the login flow of Engenious University
    ```
 
 ## Running Tests
-- To run tests in headless mode:
-  ```bash
-  npm run test:headless
-  ```
 - To run tests with UI:
   ```bash
-  npm run test:headed
+  npm run test
   ```
 
 ## Project Structure
