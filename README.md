@@ -10,7 +10,7 @@ This project provides automated tests for the login flow of Engenious University
 ## Setup
 1. Clone the repository.
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/seeyoucyberspace/Playwright_Login_Automation.git)
    ```
 2. Install dependencies.
    ```bash
